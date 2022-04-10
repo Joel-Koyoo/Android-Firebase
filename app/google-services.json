@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873974732727",
+    "project_id": "fireapp-71c18",
+    "storage_bucket": "fireapp-71c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873974732727:android:0fdca000c6b125d91e3a32",
+        "android_client_info": {
+          "package_name": "com.jovanovic.stefan.sqlitetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873974732727-39chgc2kf0p9aslri23n7sciou62o2re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAekOhr2rQhOcor36Ev7Jy_fMYJl4yhsUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873974732727-39chgc2kf0p9aslri23n7sciou62o2re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
